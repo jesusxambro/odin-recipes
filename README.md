@@ -1,1 +1,1 @@
-A quick recipe on how to make tortillas!
+A quick recipes pages for the Odin project.
